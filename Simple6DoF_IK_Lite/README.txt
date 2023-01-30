@@ -1,1 +1,1 @@
-This is a version with IK calculations for 6-axis robots: accepts Denavit-Hartenberg parameters, converts to joint angles, applies axis movement limits, performs a reverse calculation to check for correctness
+This is a version with IK calculations for 6-axis robots: accepts Denavit-Hartenberg parameters, converts input with cartesian X, Y, Z coordinates and ZYZ Euler angles to six joint angles, applies axis movement limits, performs a reverse calculation to check for correctness.
